@@ -24,11 +24,385 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Beber",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Caminar",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Escribir",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Fumar—Apagar",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Fumar—Inhalar",
+          "color": "#99AFF2"
+        },
+        {
+          "category": "Gesto—Hacer un círculo",
+          "color": "#B3B3E6"
+        },
+        {
+          "category": "Gesto—Señalar",
+          "color": "#C195DB"
+        },
+        {
+          "category": "Manipular—Lápiz",
+          "color": "#DA9ECF"
+        },
+        {
+          "category": "Manipular—Papel",
+          "color": "#F2A7C3"
+        },
+        {
+          "category": "Tocar—Uña",
+          "color": "#DC8F8D"
+        },
+        {
+          "category": "Tocar—Mejilla",
+          "color": "#FF9A6F"
+        },
+        {
+          "category": "Tocar—Nariz",
+          "color": "#FCB55F"
+        },
+        {
+          "category": "Tocar—Boca",
+          "color": "#F7ED78"
+        },
+        {
+          "category": "Tocar—Mentón",
+          "color": "#CBE364"
+        },
+        {
+          "category": "Tempo—Cuidadoso",
+          "color": "#A9D69A"
+        },
+        {
+          "category": "Tempo—Conversacional"
+        },
+        {
+          "category": "Tempo—Rápido"
+        },
+        {
+          "category": "Tempo—Muy rápido"
+        },
+        {
+          "category": "Pausa—Corta"
+        },
+        {
+          "category": "Pausa—Larga"
+        },
+        {
+          "category": "Lenguaje emotivo"
+        },
+        {
+          "category": "Preguntas"
+        },
+        {
+          "category": "Repetición"
+        },
+        {
+          "category": "Agosti, Orlando Ramón"
+        },
+        {
+          "category": "Anaya, Jorge"
+        },
+        {
+          "category": "Cámara Nacional de Apelaciones"
+        },
+        {
+          "category": "Galtieri, Leopoldo Fortunato"
+        },
+        {
+          "category": "Graffigna, Omar Domingo Rubens"
+        },
+        {
+          "category": "Lambruschini, Armando"
+        },
+        {
+          "category": "Lami Dozo, Basilio Arturo"
+        },
+        {
+          "category": "Massera, Emilio Eduardo"
+        },
+        {
+          "category": "Strassera, Julio César"
+        },
+        {
+          "category": "Videla, Jorge Rafael, 1925-2013"
+        },
+        {
+          "category": "Viola, Roberto Eduardo"
+        },
+        {
+          "category": "Acusados"
+        },
+        {
+          "category": "Abogados"
+        },
+        {
+          "category": "Título"
+        },
+        {
+          "category": "Características del aparato organizado de poder"
+        },
+        {
+          "category": "Conclusión sobre la pena"
+        },
+        {
+          "category": "Declaración del problema jurídico"
+        },
+        {
+          "category": "Delitos cometidos"
+        },
+        {
+          "category": "Plano general—Desde atrás"
+        },
+        {
+          "category": "Plano general—Frontal"
+        },
+        {
+          "category": "Primer plano—De perfil"
+        },
+        {
+          "category": "Primer plano—Desde atrás"
+        },
+        {
+          "category": "Primer plano—Frontal"
+        },
+        {
+          "category": "Toma cenital"
+        },
+        {
+          "category": "Zoom in—Cenital"
+        },
+        {
+          "category": "Zoom out—De perfil"
+        },
+        {
+          "category": "Zoom out—Desde atrás"
+        },
+        {
+          "category": "Zoom out—Frontal"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Acciones",
+          "category": "Beber"
+        },
+        {
+          "tag": "Acciones",
+          "category": "Caminar"
+        },
+        {
+          "tag": "Acciones",
+          "category": "Escribir"
+        },
+        {
+          "tag": "Acciones",
+          "category": "Fumar—Apagar"
+        },
+        {
+          "tag": "Acciones",
+          "category": "Fumar—Inhalar"
+        },
+        {
+          "tag": "Acciones",
+          "category": "Gesto—Hacer un círculo"
+        },
+        {
+          "tag": "Acciones",
+          "category": "Gesto—Señalar"
+        },
+        {
+          "tag": "Acciones",
+          "category": "Manipular—Lápiz"
+        },
+        {
+          "tag": "Acciones",
+          "category": "Manipular—Papel"
+        },
+        {
+          "tag": "Acciones",
+          "category": "Tocar—Uña"
+        },
+        {
+          "tag": "Acciones",
+          "category": "Tocar—Mejilla"
+        },
+        {
+          "tag": "Acciones",
+          "category": "Tocar—Nariz"
+        },
+        {
+          "tag": "Acciones",
+          "category": "Tocar—Boca"
+        },
+        {
+          "tag": "Acciones",
+          "category": "Tocar—Mentón"
+        },
+        {
+          "tag": "Audio",
+          "category": "Tempo—Cuidadoso"
+        },
+        {
+          "tag": "Audio",
+          "category": "Tempo—Conversacional"
+        },
+        {
+          "tag": "Audio",
+          "category": "Tempo—Rápido"
+        },
+        {
+          "tag": "Audio",
+          "category": "Tempo—Muy rápido"
+        },
+        {
+          "tag": "Audio",
+          "category": "Pausa—Corta"
+        },
+        {
+          "tag": "Audio",
+          "category": "Pausa—Larga"
+        },
+        {
+          "tag": "Dispositivos retóricos",
+          "category": "Lenguaje emotivo"
+        },
+        {
+          "tag": "Dispositivos retóricos",
+          "category": "Preguntas"
+        },
+        {
+          "tag": "Dispositivos retóricos",
+          "category": "Repetición"
+        },
+        {
+          "tag": "Personajes",
+          "category": "Agosti, Orlando Ramón"
+        },
+        {
+          "tag": "Personajes",
+          "category": "Anaya, Jorge"
+        },
+        {
+          "tag": "Personajes",
+          "category": "Cámara Nacional de Apelaciones"
+        },
+        {
+          "tag": "Personajes",
+          "category": "Galtieri, Leopoldo Fortunato"
+        },
+        {
+          "tag": "Personajes",
+          "category": "Graffigna, Omar Domingo Rubens"
+        },
+        {
+          "tag": "Personajes",
+          "category": "Lambruschini, Armando"
+        },
+        {
+          "tag": "Personajes",
+          "category": "Lami Dozo, Basilio Arturo"
+        },
+        {
+          "tag": "Personajes",
+          "category": "Massera, Emilio Eduardo"
+        },
+        {
+          "tag": "Personajes",
+          "category": "Strassera, Julio César"
+        },
+        {
+          "tag": "Personajes",
+          "category": "Videla, Jorge Rafael, 1925-2013"
+        },
+        {
+          "tag": "Personajes",
+          "category": "Viola, Roberto Eduardo"
+        },
+        {
+          "tag": "Personajes",
+          "category": "Acusados"
+        },
+        {
+          "tag": "Personajes",
+          "category": "Abogados"
+        },
+        {
+          "tag": "Segmentos",
+          "category": "Título"
+        },
+        {
+          "tag": "Segmentos",
+          "category": "Características del aparato organizado de poder"
+        },
+        {
+          "tag": "Segmentos",
+          "category": "Conclusión sobre la pena"
+        },
+        {
+          "tag": "Segmentos",
+          "category": "Declaración del problema jurídico"
+        },
+        {
+          "tag": "Segmentos",
+          "category": "Delitos cometidos"
+        },
+        {
+          "tag": "Videografía",
+          "category": "Plano general—Desde atrás"
+        },
+        {
+          "tag": "Videografía",
+          "category": "Plano general—Frontal"
+        },
+        {
+          "tag": "Videografía",
+          "category": "Primer plano—De perfil"
+        },
+        {
+          "tag": "Videografía",
+          "category": "Primer plano—Desde atrás"
+        },
+        {
+          "tag": "Videografía",
+          "category": "Primer plano—Frontal"
+        },
+        {
+          "tag": "Videografía",
+          "category": "Toma cenital"
+        },
+        {
+          "tag": "Videografía",
+          "category": "Zoom in—Cenital"
+        },
+        {
+          "tag": "Videografía",
+          "category": "Zoom out—De perfil"
+        },
+        {
+          "tag": "Videografía",
+          "category": "Zoom out—Desde atrás"
+        },
+        {
+          "tag": "Videografía",
+          "category": "Zoom out—Frontal"
+        }
+      ]
     },
     "created_at": "2026-03-18T15:54:18.425Z",
-    "updated_at": "2026-03-18T15:54:18.425Z",
+    "updated_at": "2026-03-18T16:05:31.371Z",
     "generate_pages_site": true
   },
   "annotations": {},
